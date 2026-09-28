@@ -2,7 +2,7 @@
 
 Interactive automotive event dashboards built with **Tableau** and **Looker Studio**, focused on event performance, attendee engagement, survey insights, and KPIs.
 
-> **Note:** Dashboard data has been anonymized to protect client confidentiality and sensitive information.
+> **Note:** Dashboard data has been anonymized to protect client confidentiality.
 
 ## Dashboards
 
